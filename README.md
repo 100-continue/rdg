@@ -8,4 +8,6 @@ Add pink butterfly image.
 Fixing typo.
 
 - #4  
-Update color pink to blue.
+Update color pink to blue.  
+  - #1  
+  Update README.md
