@@ -1,0 +1,19 @@
+{
+  "core": {
+    "workingDir": ".reg",
+    "actualDir": "directory_contains_actual_images",
+    "thresholdRate": 0,
+    "ximgdiff": {
+      "invocationType": "client"
+    }
+  },
+  "plugins": {
+    "reg-keygen-git-hash-plugin": true,
+    "reg-notify-github-plugin": {
+      "clientId": "MzI1MDEzsjAz0S9KSdc3NzK3NDe20Dc0MNBNzs8rycwrTQUA"
+    },
+    "reg-publish-s3-plugin": {
+      "bucketName": "reg-publish-bucket-4e6cb690-4947-49aa-9664-b81b9a076cca"
+    }
+  }
+}
