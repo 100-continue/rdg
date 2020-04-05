@@ -6,3 +6,6 @@ Add pink butterfly image.
 
 - #3  
 Fixing typo.
+
+- #4  
+Update color pink to blue.
