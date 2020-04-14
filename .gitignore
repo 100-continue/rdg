@@ -115,3 +115,8 @@ directory_contains_actual_images/**/*.png
 
 # Ignore reg-suit working directory
 .reg
+
+# Extra blanks
+
+
+
